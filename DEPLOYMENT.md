@@ -43,7 +43,6 @@ Render redeploys automatically whenever you push to `main`.
 - [x] Book the same slot from a second account → rejected
 - [x] Tested on a real phone over mobile data
 - [x] Turn off internet → offline banner / error message, no crash
-- [x] Lighthouse: Performance 41 / Accessibility 95 / Best Practices 100 / SEO 100
-Performance is lower mainly because of Render's free-tier server response time and external images and fonts. Possible improvements: compress and resize images, host fonts locally, add caching.
+- [x] Lighthouse: Performance 41 / Accessibility 95 / Best Practices 100 / SEO 100 (Performance is lower mainly because of Render's free-tier server response time and external images and fonts.)
 - [x] HTTPS OK, no console errors, title and favicon set
 - [x] UptimeRobot monitor on the live URL and `/api/health`
