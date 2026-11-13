@@ -4,7 +4,14 @@ Salon appointment booking site. Customers browse services and book a stylist, da
 
 - **Live URL:** https://salon7web.onrender.com
 - **Health check:** https://salon7web.onrender.com/api/health
-- **Screenshots:** _add 3–5 to `docs/screenshots/` (home, services, booking, my bookings, admin)_
+
+## Screenshots
+
+![Home](Home.png)
+![Services](Services.png)
+![Booking](Booking.png)
+![My bookings](My-bookings.png)
+![Admin](Admin.png)
 
 ## Features
 
@@ -71,10 +78,9 @@ To test the production setup locally: `npm run build` then `npm start`, and open
 
 No passwords are committed. After seeding:
 
-- **Admin:** the `ADMIN_EMAIL` / `ADMIN_PASSWORD` you set in `server/.env`
-- **User:** register any account in the app
+- **Admin:** the admin0@power.com / powerpass@1 you set in `server/.env`
+- **User:** testmail@gmail.com / testpassword
 
-_Write your real test credentials here before submitting._
 
 ## API overview
 
