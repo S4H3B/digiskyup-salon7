@@ -32,6 +32,7 @@ Salon appointment booking site. Customers browse services and book a stylist, da
 | Frontend | React (JSX) + plain HTML/CSS, built with Vite | Vite only compiles JSX; no UI or routing libraries |
 | Login | JWT + bcrypt | Stateless and simple |
 | Hosting | Render (one free web service) | Express serves the built React app, so there is one deploy, no CORS and no frontend env file |
+| Monitoring | UptimeRobot (free) | Pings /api/health every 5 minutes, so the site stays awake and I get an alert if it goes down |
 
 ## Folder structure
 
