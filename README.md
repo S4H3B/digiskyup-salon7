@@ -7,11 +7,11 @@ Salon appointment booking site. Customers browse services and book a stylist, da
 
 ## Screenshots
 
-![Home](Home.png)
-![Services](Services.png)
-![Booking](Booking.png)
-![My bookings](My-bookings.png)
-![Admin](Admin.png)
+![Home](Docs/Screenshots/Home.png)
+![Services](Docs/Screenshots/Services.png)
+![Booking](Docs/Screenshots/Booking.png)
+![My bookings](Docs/Screenshots/My-bookings.png)
+![Admin](Docs/Screenshots/Admin.png)
 
 ## Features
 
